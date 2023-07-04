@@ -5,7 +5,7 @@
 ---
 
 - Project Name : NLP Applications
-- Description : 3 NLP applications which are used in different areas.
+- Description : NLP applications which are used in different areas.
 
 ---
 
